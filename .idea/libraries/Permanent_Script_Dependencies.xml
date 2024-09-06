@@ -49,6 +49,20 @@
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/platf-awt/4.3.2/platf-awt-4.3.2.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/lets-plot-kotlin-kernel/4.7.2/lets-plot-kotlin-kernel-4.7.2.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/platf-awt-jvm/4.3.2/platf-awt-jvm-4.3.2.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/lets-plot-common/4.4.1/lets-plot-common-4.4.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/commons-jvm/4.4.1/commons-jvm-4.4.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.7.1/kotlinx-coroutines-core-jvm-1.7.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.20/kotlin-stdlib-jdk8-1.8.20.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.20/kotlin-stdlib-jdk7-1.8.20.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/datamodel-jvm/4.4.1/datamodel-jvm-4.4.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/plot-base-jvm/4.4.1/plot-base-jvm-4.4.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/plot-builder-jvm/4.4.1/plot-builder-jvm-4.4.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/plot-stem-jvm/4.4.1/plot-stem-jvm-4.4.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/deprecated-in-v4-jvm/4.4.1/deprecated-in-v4-jvm-4.4.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/lets-plot-image-export/4.4.1/lets-plot-image-export-4.4.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/platf-awt/4.4.1/platf-awt-4.4.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/lets-plot-kotlin-kernel/4.8.0/lets-plot-kotlin-kernel-4.8.0.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/platf-awt-jvm/4.4.1/platf-awt-jvm-4.4.1.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -97,6 +111,19 @@
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/platf-awt/4.3.2/platf-awt-4.3.2-sources.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/lets-plot-kotlin-kernel/4.7.2/lets-plot-kotlin-kernel-4.7.2-sources.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/platf-awt-jvm/4.3.2/platf-awt-jvm-4.3.2-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/commons-jvm/4.4.1/commons-jvm-4.4.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.7.1/kotlinx-coroutines-core-jvm-1.7.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.20/kotlin-stdlib-jdk8-1.8.20-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.20/kotlin-stdlib-jdk7-1.8.20-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/datamodel-jvm/4.4.1/datamodel-jvm-4.4.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/plot-base-jvm/4.4.1/plot-base-jvm-4.4.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/plot-builder-jvm/4.4.1/plot-builder-jvm-4.4.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/plot-stem-jvm/4.4.1/plot-stem-jvm-4.4.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/deprecated-in-v4-jvm/4.4.1/deprecated-in-v4-jvm-4.4.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/lets-plot-image-export/4.4.1/lets-plot-image-export-4.4.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/platf-awt/4.4.1/platf-awt-4.4.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/lets-plot-kotlin-kernel/4.8.0/lets-plot-kotlin-kernel-4.8.0-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/platf-awt-jvm/4.4.1/platf-awt-jvm-4.4.1-sources.jar" />
     </SOURCES>
   </library>
 </component>
