@@ -3,4 +3,7 @@
   <component name="KotlinNotebookOptionsProvider">
     <option name="kernelVersion" value="0.12.0-280" />
   </component>
+  <component name="KotlinNotebookPlotExportOptionsProvider">
+    <option name="fileName" value="2-distToInner.svg" />
+  </component>
 </project>
