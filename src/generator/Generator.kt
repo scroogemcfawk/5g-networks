@@ -20,6 +20,10 @@ object Generator {
         )
     }
 
+    fun nextPointInSquare(size: Number): Point {
+        return nextPointInRectangle(size, size)
+    }
+
     fun nextPointInCircleAsSquare(radius: Number = 1.0): Point {
         return nextPointInCircleAsSquare(radius.toDouble())
     }
@@ -40,5 +44,41 @@ object Generator {
         val angle = Random.nextDouble() * 2 * PI
         val radius = sqrt(Random.nextDouble()) * maxRadius.toDouble()
         return Point(radius * cos(angle), radius * sin(angle))
+    }
+
+    fun nextOnDistance(point: Point, distance: Number): Point {
+        val angle = Random.nextDouble() * 2 * PI
+        return Point(point.x + distance.toDouble() * cos(angle), point.y + distance.toDouble() * sin(angle))
+    }
+
+    fun nextPariInSquare(distance: Number, squareSize: Number): Pair<Point, Point> {
+        var first = nextPointInSquare(squareSize)
+        var second = nextOnDistance(first, distance)
+        if (!(first.isInSquare(squareSize) && second.isInSquare(squareSize))) {
+            val squareCenter = Point(squareSize.toDouble() / 2, squareSize.toDouble() / 2)
+            val middle = first.middleTo(second)
+            val adjustment = middle.getAdjustment(squareCenter)
+            first = first.adjust(adjustment)
+            second = second.adjust(adjustment)
+        }
+        return Pair(first, second)
+    }
+
+    @JvmStatic
+    fun main(args: Array<String>) {
+        var A = Point(5, 6)
+        var B = Point(11, 2)
+        var C = A.middleTo(B)
+        println("C: $C")
+
+        val center = Point(4, 4)
+        val adjust = C.getAdjustment(center)
+        println("Adjust: $adjust")
+
+        A = A.adjust(adjust)
+        B = B.adjust(adjust)
+
+        println(A)
+        println(B)
     }
 }
