@@ -84,15 +84,15 @@ data class Sector(
     }
 
     fun contains(p: Point): Boolean {
-        println("Sector: $this")
-        println("Other: $p")
+//        println("Sector: $this")
+//        println("Other: $p")
 
         val adjustment = pivot.getAdjustment(p)
         val angle = atan2(adjustment.y, adjustment.x).let {
             if (it < 0) it + TWO_PI else
                 if (it > TWO_PI) it - TWO_PI else it
         }
-        println("Angle: ${degrees(angle)}")
+//        println("Angle: ${degrees(angle)}")
         return angle in boundLower..boundUpper
     }
 
