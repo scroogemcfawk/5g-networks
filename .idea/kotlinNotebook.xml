@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="KotlinNotebookOptionsProvider">
-    <option name="kernelVersion" value="0.12.0-326" />
-  </component>
   <component name="KotlinNotebookPlotExportOptionsProvider">
     <option name="fileName" value="2-distToInner.svg" />
   </component>
