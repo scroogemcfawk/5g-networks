@@ -42,6 +42,10 @@ data class Point(
         return distTo(center) <= radius.toDouble()
     }
 
+    fun interpolate(other: Point): List<Point> {
+        return interpolate(other, 1000)
+    }
+
     fun interpolate(other: Point, n: Int): List<Point> {
         val res = ArrayList<Point>()
         val a = getAdjustment(other)

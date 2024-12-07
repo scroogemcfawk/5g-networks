@@ -305,6 +305,22 @@
       <root url="file://$APPLICATION_HOME_DIR$/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
       <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.3/kotlinNotebook/5g-networks.181b97ee/kernels/0.12.0-333/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.12.0-333.jar" />
       <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.3/kotlinNotebook/5g-networks.181b97ee/kernels/0.12.0-322/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.12.0-322.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-jupyter/0.3.1/kmath-jupyter-0.3.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-html-jvm/0.8.0/kotlinx-html-jvm-0.8.0.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.7.10/kotlin-stdlib-common-1.7.10.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-ast-jvm/0.3.1/kmath-ast-jvm-0.3.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-core-jvm/0.3.1/kmath-core-jvm-0.3.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-memory-jvm/0.3.1/kmath-memory-jvm-0.3.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/com/github/h0tk3y/betterParse/better-parse-jvm/0.4.4/better-parse-jvm-0.4.4.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm/9.2/asm-9.2.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-complex-jvm/0.3.1/kmath-complex-jvm-0.3.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-test/1.8.20/kotlin-test-1.8.20.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-for-real-jvm/0.3.1/kmath-for-real-jvm-0.3.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.8.20/kotlin-stdlib-1.8.20.jar" />
+      <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.3/kotlinNotebook/5g-networks.181b97ee/kernels/0.12.0-352/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.12.0-352.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -537,6 +553,22 @@
       <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.3/kotlinNotebook/5g-networks.181b97ee/kernels/0.12.0-315/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.12.0-315-sources.jar" />
       <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.3/kotlinNotebook/5g-networks.181b97ee/kernels/0.12.0-333/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.12.0-333-sources.jar" />
       <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.3/kotlinNotebook/5g-networks.181b97ee/kernels/0.12.0-322/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.12.0-322-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-jupyter/0.3.1/kmath-jupyter-0.3.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-html-jvm/0.8.0/kotlinx-html-jvm-0.8.0-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.7.10/kotlin-stdlib-common-1.7.10-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-ast-jvm/0.3.1/kmath-ast-jvm-0.3.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-core-jvm/0.3.1/kmath-core-jvm-0.3.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-memory-jvm/0.3.1/kmath-memory-jvm-0.3.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/com/github/h0tk3y/betterParse/better-parse-jvm/0.4.4/better-parse-jvm-0.4.4-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm-commons/9.2/asm-commons-9.2-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm/9.2/asm-9.2-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm-tree/9.2/asm-tree-9.2-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-complex-jvm/0.3.1/kmath-complex-jvm-0.3.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-test/1.8.20/kotlin-test-1.8.20-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-for-real-jvm/0.3.1/kmath-for-real-jvm-0.3.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.8.20/kotlin-stdlib-1.8.20-sources.jar" />
+      <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.3/kotlinNotebook/5g-networks.181b97ee/kernels/0.12.0-352/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.12.0-352-sources.jar" />
     </SOURCES>
   </library>
 </component>
