@@ -321,6 +321,7 @@
       <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-for-real-jvm/0.3.1/kmath-for-real-jvm-0.3.1.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.8.20/kotlin-stdlib-1.8.20.jar" />
       <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.3/kotlinNotebook/5g-networks.181b97ee/kernels/0.12.0-352/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.12.0-352.jar" />
+      <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.3/kotlinNotebook/5g-networks.181b97ee/kernels/0.12.0-353/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.12.0-353.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -569,6 +570,7 @@
       <root url="file://$MAVEN_REPOSITORY$/space/kscience/kmath-for-real-jvm/0.3.1/kmath-for-real-jvm-0.3.1-sources.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.8.20/kotlin-stdlib-1.8.20-sources.jar" />
       <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.3/kotlinNotebook/5g-networks.181b97ee/kernels/0.12.0-352/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.12.0-352-sources.jar" />
+      <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.3/kotlinNotebook/5g-networks.181b97ee/kernels/0.12.0-353/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.12.0-353-sources.jar" />
     </SOURCES>
   </library>
 </component>
